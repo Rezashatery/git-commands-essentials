@@ -30,3 +30,8 @@ this command is not upload in your github.
 
 ### push(upload) files to the git (remote repository)
 
+git push origin 
+
+to upload everything in yout repository
+
+### uplaid in new branch
