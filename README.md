@@ -1,3 +1,3 @@
-# Git essentails commands
+## Git essentails commands
 
-explain every important command for git and how to use it
+explain every important command for git and how to use it.
